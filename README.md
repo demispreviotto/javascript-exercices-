@@ -1,2 +1,2 @@
 # javascript-exercices-
-List of exercices to practice JavaScript basic knowledge
+List of exercises to practice JavaScript basic knowledge
